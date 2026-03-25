@@ -1,0 +1,19 @@
+Documentacion oficial
+
+https://git-scm.com/doc
+
+La guia sencilla:
+
+https://rogerdudler.github.io/git-guide/index.es.html?authuser=0
+
+El tutorial interactivo:
+
+https://gitimmersion.com/lab_01.html?authuser=0
+
+https://esparta.github.io/gitimmersion-spanish/lab_01.html?authuser=0
+
+Juegos de git :
+
+Oh My Git! is an open-source game about learning Git!
+
+https://ohmygit.org/
