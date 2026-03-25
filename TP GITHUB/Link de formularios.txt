@@ -1,0 +1,11 @@
+Link del formualrio de inscripcion , 
+este formualrio debe ser cargado solo una vez por alumno
+
+https://forms.gle/aTMPviQKjeCKWn5h7
+
+
+link de entrega del tp finalizado ,
+este deberia ser cargado solo por el creador del repositorio.
+
+https://forms.gle/o2ZWnL5dEf65TZnP6
+
